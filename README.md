@@ -1,5 +1,5 @@
 # php-register-and-login-system
-PHP/CSS3/HTML5/JavaScript simple project login/register and validations free feel to user for class project only. I hate php.
+PHP/CSS3/HTML5/JavaScript simple project login/register and validations free feel to user for class project only.
 
 ####
   Dev Dependencies
